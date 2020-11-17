@@ -9,4 +9,4 @@ Sau hai địa điểm Sài Gòn và [Hà Nội](https://blog.vbtc.exchange/2020
 
 Người dùng phi ngân hàng của VBTC nay đã có thể nạp và rút VNĐ bằng tiền mặt đến nền tảng qua đối tác Văn phòng Tiền mặt của chúng tôi tại hội An.
  
-![](https://blog.vbtc.exchange/assets/img/cash-office-201017.jpg)
+![](https://blog.vbtc.exchange/assets/img/cash-office-201117.jpg)

@@ -9,4 +9,4 @@ After Saigon and [Hanoi](https://blog.vbtc.exchange/2020/vbtc-cash-office-hanoi-
  
  Unbanked users of VBTC are now able to deposit or withdraw VND in cash from the platform via our Cash Office partner in Hoi An.
  
-![](https://blog.vbtc.exchange/assets/img/cash-office-201017.jpg)
+![](https://blog.vbtc.exchange/assets/img/cash-office-201117.jpg)
