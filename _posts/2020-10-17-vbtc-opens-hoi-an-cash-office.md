@@ -3,7 +3,6 @@ layout: post
 title:  VBTC opens Hoi An Cash Office
 date:   2020-10-17 10:21:00 +0700
 ---
-#### VBTC opens Hoi An Cash Office
 
 After Saigon and [Hanoi](https://blog.vbtc.exchange/2020/vbtc-cash-office-hanoi-how-does-it-work) finally the cash office services of VBTC have expanded to Hoi An, Quang Nam province.
  

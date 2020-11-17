@@ -3,7 +3,6 @@ layout: post
 title:  VBTC mở văn phòng tiền mặt tại Hội An
 date:   2020-10-17 10:21:00 +0700
 ---
-#### VBTC mở văn phòng tiền mặt tại Hội An
 
 Sau hai địa điểm Sài Gòn và [Hà Nội](https://blog.vbtc.exchange/2020/vbtc-cash-office-hanoi-how-does-it-work), cuối cùng dịch vụ văn phòng tiền mặt của VBTC đã mở rộng tới Hội An, tỉnh Quảng Nam.
 
