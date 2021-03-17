@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  4 common exchange deceptions
-image: assets/posts/2019-02-24-common-exchange-frauds/wash-trading-2.jpeg
 date:   2019-02-24 00:00:00 +0700
 ---
 
