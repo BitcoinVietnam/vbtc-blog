@@ -1,9 +1,15 @@
-VBTC blog
+THONG NGO VBTC EXCHANGE
 =========
 
 ## Installation
 
-1. Install bundler:
+1. Install bundler: THONG NGO VBTC EXCHANGE
+    'Bank name: Sacombank'
+    'Account number: 060168497388'
+    'Account holder name: NGO QUANG THONG'
+    'Swift code: SGTTVNVX'
+    'Bank branch: TP.HCM'
+    'Bank country: Vietnam'
 
     `gem install bundler`
     
@@ -17,4 +23,4 @@ VBTC blog
     
 4. Preview your site:
 
-    [http://localhost:4000](http://localhost:4000)
+    [https://www.vbtc.exchange/]
