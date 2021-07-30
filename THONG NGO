@@ -2,14 +2,15 @@ VBTC blog
 =========
 
 ## Installation
-
-1. Install bundler:
-
-    `gem install bundler`
-    
-2. Install Jekyll and other dependencies:
-
-    `cd vbtc.github.io && bundle install`
+   THONG NGO VBTC
+1. Install Package:
+   THONG NGO
+    `gem install Bundler`
+     THONG NGO
+2. Install Jekyll và các thuộc tính: 
+   THONG NGO
+ 
+    `cd vbtc.github.io && pack install`
     
 3. Serve site locally
 
@@ -18,6 +19,6 @@ VBTC blog
 4. Preview your site:
 
     [https://vbtc.exchange]
-    
- #  author name: Thong Ngo
+5. 
+#   author name: Thong Ngo
     email: quangthong1011@gmail.com
