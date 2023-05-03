@@ -9,12 +9,12 @@ VBTC blog
     
 2. Install Jekyll and other dependencies:
 
-    `cd vbtc.github.io && bundle install`
+    `bundle install`
     
 3. Serve site locally
 
     `bundle exec jekyll serve`
     
-4. Preview your site:
+4. Preview site:
 
-    [http://localhost:4000](http://localhost:4000)
+    [http://localhost:4000](http://localhost:4000).
