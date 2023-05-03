@@ -1,22 +1,47 @@
-# vbtc.github.io configuration
-
 title: VBTC Blog
-author: VBTC
-email: support@vbtc.vn
+author:
+  name: VBTC
+  email: support@vbtc.exchange
+
 description: News and announcements regarding VBTC, the first Bitcoin live exchange in Vietnam
-baseurl: "/"
-url: "https://vbtc.github.io"
-show_excerpts: true
 
-twitter_username: vbtc_vietnam
-facebook_username: VBTC.vn
-github_username: vbtc
-rss: feed.xml
 
-google_analytics: UA-134715319-1
+# Build settings
 
-permalink: /:year/:categories/:title
-markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme-specific settings
+
+minima:
+  # Minima date format.
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #
+  # date_format: "%b %-d, %Y"
+
+  social_links:
+    - { platform: github,  user_url: "https://github.com/vbtc" }
+    - { platform: twitter, user_url: "https://twitter.com/vbtc_vietnam" }
+    - { platform: facebook, user_url: "https://facebook.com/VBTC.vn" }
+
+# If you want to link only specific pages in your header, uncomment this and add the path to the pages in
+# order as they should show up.
+#
+# header_pages:
+#   - about.md
+
+# Set to `true` to show excerpts on the homepage.
+#
+show_excerpts: true
+
+#twitter_username: vbtc_vietnam
+#facebook_username: VBTC.vn
+#github_username: vbtc
+#rss: feed.xml
+
+permalink: /:year/:categories/:title
+url: "https://blog.vbtc.exchange"
+
